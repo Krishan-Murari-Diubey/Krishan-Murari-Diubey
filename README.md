@@ -5,9 +5,9 @@
 - 👀 I'm interested in web development, particularly in the MERN stack.
 - 🌱 I'm currently learning advanced React techniques and exploring serverless architecture.
 - 💞️ I'm looking to collaborate on interesting projects that push the boundaries of technology.
-- 📫 You can reach me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+- 📫 You can reach me via email at [dubeykrishanmurari6@gmail.com](dubeykrishanmurari6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/Krishan-Murari-Dubey).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with new recipes in the kitchen when I'm not coding!
+- ⚡ Fun fact: I love watching anime i am big anime lover
 
 ## Skills
 
@@ -19,6 +19,8 @@
 - Python
 - HTML/CSS
 - Git/GitHub
+- selenium
+- c
 
 ## Projects
 
