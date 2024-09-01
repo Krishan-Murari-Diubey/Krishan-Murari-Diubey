@@ -1,4 +1,4 @@
-# Hi there, I'm Krishan Murari Diubey! 👋
+# Hi there, I'm Krishan Murari Dubey! 👋
 
 ## About Me
 
