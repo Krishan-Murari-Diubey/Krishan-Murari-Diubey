@@ -5,7 +5,7 @@
 - 👀 I'm interested in web development, particularly in the MERN stack.
 - 🌱 I'm currently learning advanced React techniques and exploring serverless architecture.
 - 💞️ I'm looking to collaborate on interesting projects that push the boundaries of technology.
-- 📫 You can reach me via email at [dubeykrishanmurari6@gmail.com](dubeykrishanmurari6@gmail.com) or connect with me on [https://github.com/Krishan-Murari-Diubey/Krishan-Murari-Diubey](https://www.linkedin.com/in/Krishan-Murari-Dubey).
+- 📫 You can reach me via email at [dubeykrishanmurari6@gmail.com](dubeykrishanmurari6@gmail.com) or connect with me on [https://github.com/Krishan-Murari-Diubey/Krishan-Murari-Dubey](https://www.linkedin.com/in/Krishan-Murari-Dubey).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime i am big anime lover
 
